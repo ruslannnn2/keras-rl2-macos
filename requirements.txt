@@ -1,2 +1,2 @@
-gym
-tensorflow
+gymnasium
+tensorflow-macos==2.9.1
