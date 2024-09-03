@@ -8,8 +8,8 @@ setup(name='keras-rl2',
       author='Taylor McNally',
       url='https://github.com/wau/keras-rl2',
       license='MIT',
-      install_requires=['tensorflow'],
+      install_requires=['tensorflow-macos'],
       extras_require={
-          'gym': ['gym'],
+          'gymnasium': ['gymnasium'],
       },
       packages=find_packages())
